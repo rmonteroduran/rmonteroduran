@@ -23,4 +23,4 @@ Bienvenid@ y gracias por visitar mi perfil.
 </p>
 
 # Mis redes
-<a href="https://www.linkedin.com/in/rodrigo-montero-duran/"><img src="https://user-images.githubusercontent.com/103367542/170894323-0f032763-96c4-4c16-8d43-9e0df66df6af.png" width="45"></a>
+<a href="https://www.linkedin.com/in/rodrigo-montero-duran/"><img src="https://user-images.githubusercontent.com/103367542/170894323-0f032763-96c4-4c16-8d43-9e0df66df6af.png" width="35"></a>
