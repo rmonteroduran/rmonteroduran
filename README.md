@@ -5,8 +5,8 @@ Bienvenid@ y gracias por visitar mi perfil.
 
 # Sobre mi
 
-- 💼 Trabajo como PO de un squad de onboarding bancario luego de liderar equipos de gestión de proyectos, eficiencias y desarrollo RPA con metodologías ágiles (scrum).
-- 🌱 Soy técnico en informática, desarollador RPA y actualmente me encuentro cursando la carrera de desarrollo Full Stack en Coderhouse además de ser estudiante de sociología (UBA).
+- 💼 Trabajo como PO de un squad de onboarding luego de liderar equipos de gestión de proyectos, eficiencias y desarrollo RPA con metodologías ágiles (scrum).
+- 🌱 Soy técnico en informática, desarrollador RPA y actualmente me encuentro cursando la carrera de desarrollo Web FullStack además de ser estudiante de sociología (UBA).
 - 🚀 Me encanta viajar y en mi tiempo libre me gusta practicar deportes, tocar la guitarra y sacar fotos.
 - 💬 Cuando quieras podemos hablar sobre música, viajes, deportes y libros.
 
