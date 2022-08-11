@@ -12,8 +12,6 @@ Bienvenid@ y gracias por visitar mi perfil.
 
 # Skills
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/103367542/170894799-698b0c08-f164-4faa-b71a-289f4f6778ba.png" width="45">
-  <img src="https://user-images.githubusercontent.com/103367542/170894489-fc844e28-cd05-4299-b3df-03fa23ecd85e.png" width="45">
   <img src="https://user-images.githubusercontent.com/103367542/170894395-1b4856d1-dddb-44a6-988b-f467a48d8081.png" width="45">
   <img src="https://user-images.githubusercontent.com/103367542/170894405-9fb8cd44-7e1c-4021-8b60-479d777e40f6.png" width="45">
   <img src="https://user-images.githubusercontent.com/103367542/170894422-14ab5f0a-2db8-4d99-8fd5-adfa9e576b88.png" width="45">
@@ -21,6 +19,8 @@ Bienvenid@ y gracias por visitar mi perfil.
   <img src="https://user-images.githubusercontent.com/103367542/170894562-47345668-e72e-4c31-ac11-263b37e1c7db.png" width="45">
   <img src="https://user-images.githubusercontent.com/103367542/170894961-f9b01950-53d0-46bf-8e1e-151d8ca73524.png" width="45">
   <img src="https://user-images.githubusercontent.com/103367542/171971496-09aed86f-603e-48f1-91ef-7843fa475e39.png" width="45">
+  <img src="https://user-images.githubusercontent.com/103367542/170894799-698b0c08-f164-4faa-b71a-289f4f6778ba.png" width="45">
+  <img src="https://user-images.githubusercontent.com/103367542/170894489-fc844e28-cd05-4299-b3df-03fa23ecd85e.png" width="45">
 </p>
 
 # Mis redes
