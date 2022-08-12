@@ -12,6 +12,7 @@ Bienvenid@ y gracias por visitar mi perfil.
 
 # Skills
 <p align="left">
+  <img src="https://user-images.githubusercontent.com/103367542/184263497-ec0c1692-3d98-4347-baad-8fb9b9643b6d.png" width="45">
   <img src="https://user-images.githubusercontent.com/103367542/170894395-1b4856d1-dddb-44a6-988b-f467a48d8081.png" width="45">
   <img src="https://user-images.githubusercontent.com/103367542/170894405-9fb8cd44-7e1c-4021-8b60-479d777e40f6.png" width="45">
   <img src="https://user-images.githubusercontent.com/103367542/170894422-14ab5f0a-2db8-4d99-8fd5-adfa9e576b88.png" width="45">
