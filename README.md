@@ -5,9 +5,9 @@ Bienvenid@ y gracias por visitar mi perfil.
 
 # Sobre mi
 
-- 💼 Trabajo como Journey Owner en un squad de adquisición luego de liderar equipos de gestión de proyectos, eficiencias y desarrollo de automatizaciones (RPA).
-- 🌱 Soy técnico en informática, desarrollador RPA y actualmente me encuentro cursando la carrera de desarrollo Web FullStack además de ser estudiante de sociología (UBA).
-- 🚀 Me encanta viajar y en mi tiempo libre me gusta practicar deportes, tocar la guitarra y sacar fotos.
+- 💼 Actualmente trabajo como Journey Owner luego de liderar equipos de gestión de proyectos, eficiencias y desarrollo de automatizaciones (RPA).
+- 🌱 Soy técnico en informática, desarrollador RPA y actualmente me encuentro cursando la carrera de desarrollo Web FullStack.
+- 🚀 Me encanta viajar y en mi tiempo libre me gusta leer, practicar deportes y tocar la guitarra.
 - 💬 Cuando quieras podemos hablar sobre música, viajes, deportes y libros.
 
 # Skills
