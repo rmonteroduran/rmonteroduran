@@ -19,10 +19,10 @@ Bienvenid@ y gracias por visitar mi perfil.
   <img src="https://user-images.githubusercontent.com/103367542/170894435-edb4a121-31eb-423d-b5de-0a342505ad42.png" width="45">
   <img src="https://user-images.githubusercontent.com/103367542/170894562-47345668-e72e-4c31-ac11-263b37e1c7db.png" width="45">
   <img src="https://user-images.githubusercontent.com/103367542/170894961-f9b01950-53d0-46bf-8e1e-151d8ca73524.png" width="45">
-  <img src="https://user-images.githubusercontent.com/103367542/171971496-09aed86f-603e-48f1-91ef-7843fa475e39.png" width="45">
-  <img src="https://user-images.githubusercontent.com/103367542/170894799-698b0c08-f164-4faa-b71a-289f4f6778ba.png" width="45">
-  <img src="https://user-images.githubusercontent.com/103367542/170894489-fc844e28-cd05-4299-b3df-03fa23ecd85e.png" width="45">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="45">
+  <img src="https://user-images.githubusercontent.com/103367542/170894489-fc844e28-cd05-4299-b3df-03fa23ecd85e.png" width="45">
+  <img src="https://user-images.githubusercontent.com/103367542/170894799-698b0c08-f164-4faa-b71a-289f4f6778ba.png" width="45">
+  <img src="https://user-images.githubusercontent.com/103367542/171971496-09aed86f-603e-48f1-91ef-7843fa475e39.png" width="45">
 </p>
 
 # Mis redes
