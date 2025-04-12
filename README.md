@@ -23,6 +23,10 @@ Bienvenid@ y gracias por visitar mi perfil.
   <img src="https://user-images.githubusercontent.com/103367542/170894489-fc844e28-cd05-4299-b3df-03fa23ecd85e.png" width="45">
   <img src="https://user-images.githubusercontent.com/103367542/170894799-698b0c08-f164-4faa-b71a-289f4f6778ba.png" width="45">
   <img src="https://user-images.githubusercontent.com/103367542/171971496-09aed86f-603e-48f1-91ef-7843fa475e39.png" width="45">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzTaSyKJQmYk_WP9WrDTwSxh4vY9zNEDG8qQ&s" width="45">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy5h-qdO2GsXVASa8NnvYL13AfedDx5-90NA&s" width="45">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXn2PxCWknVYfeNMxWJ3lZpHifBneoZzcUJg&s" width="45">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj9P_SudawEg25t26LHrMnq3ZFcm71XUFKuQ&s" width="45">
 </p>
 
 # Mis redes
